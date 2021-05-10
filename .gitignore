@@ -115,3 +115,10 @@ cython_debug/
 .devcontainer/*
 .vscode/*
 .DS_Store
+
+# tex
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.gz
